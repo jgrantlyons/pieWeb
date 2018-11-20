@@ -1,0 +1,35 @@
+
+#navbar{
+    width:960px;
+    margin:auto;
+}
+
+.navbarBrand{
+    float:left;
+}
+
+#navbarLinks{
+    display: block;
+    float:right;
+} 
+
+
+#facebookLogo{
+    height: 25px;
+    width: 25px;
+    margin: 0px auto;
+    align:center;
+}
+
+.topInnerNavbar{
+    font-size: 12px;
+    width:100%;
+}
+
+.bottomInnerNavbar{
+}
+
+.navLink{
+    position:relative;
+    float:right;
+}
